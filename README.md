@@ -2,6 +2,8 @@
 
 A full-stack Customer Relationship Management (CRM) application developed using the MERN stack (React.js, Node.js, Express.js, and MongoDB). This application enables businesses to efficiently manage customer leads through a clean, interactive dashboard supporting complete CRUD functionality.
 
+DEPLOYMENT LINK : mini-pwr49t8iq-pavi682006.vercel.app
+
 ---
 
 ## 📖 Overview
